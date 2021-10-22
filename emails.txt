@@ -1,0 +1,6 @@
+email1@gmail.com
+email2@yahoo.com
+abc@example.com
+kanchan.c@gmail.com
+samaj@gmail.com
+cookie@biscuits.com
