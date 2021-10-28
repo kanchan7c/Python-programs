@@ -1,0 +1,8 @@
+
+--> To create a virtual environment in python
+        python3 -m venv .venv
+
+--> To start the virtual environment
+        source .venv/bin/activate // to activate
+        deactivate    // to deactivate
+
