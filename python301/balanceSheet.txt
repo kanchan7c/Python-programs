@@ -1,0 +1,16 @@
+Withdrawl made of Rupees 90
+Deposit made of Rupees 8000
+Deposit made of Rupees 1000
+Withdrawl made of Rupees 20
+Deposit made of Rupees 2000
+Withdrawl made of Rupees 3000
+Withdrawl made of Rupees 0
+Deposit made of Rupees 200
+Withdrawl made of Rupees 1000
+Withdrawl made of Rupees 432
+Withdrawl made of Rupees 754
+Withdrawl made of Rupees 100
+Withdrawl made of Rupees 9876
+Withdrawl made of Rupees -987
+Deposit made of Rupees 9890
+Withdrawl made of Rupees 89
